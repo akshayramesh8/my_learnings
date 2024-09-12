@@ -8,6 +8,7 @@ In other words, group the users by the number of tweets they posted in 2022 and 
 **tweets Table:**
 ![tweets](./DL_T1.png)
 
+
 **Example Output:**
 ![](./DL_T2.png)
 
