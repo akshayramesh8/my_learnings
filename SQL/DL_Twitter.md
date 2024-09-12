@@ -6,10 +6,10 @@ Assume you're given a table Twitter tweet data, write a query to obtain a histog
 In other words, group the users by the number of tweets they posted in 2022 and count the number of uthesers in each group.
 
 **tweets Table:**
-![tweets](./image-1.png)
+![tweets](./DL_T1.png)
 
 **Example Output:**
-![](./image.png)
+![](./DL_T2.png)
 
 ## Solution Code:
 ```sql
